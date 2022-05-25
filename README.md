@@ -1,7 +1,8 @@
 # FOTON Scintillation 
 Finding ionospheric scintillation in FOTON data and comparing locations of high S4 to ISS @ high TIP data. 
 
-Required libraries: numpy, scipy, matplotlib.plot, pymap3d, math
+Required libraries: numpy, scipy, matplotlib.plot, pymap3d, math 
+
 Required files: FOTON IQ data, txi data, navigation solution data, TIP data
 
 File Descriptions: 
@@ -18,7 +19,8 @@ File Descriptions:
 # GOLD - TIP Comparison
 Comparing GOLD radiance to TIP Data at night (time range: 23:00 - 00:00)
 
-Required libraries: numpy, netCDF4, matplotlib.pyplot, matplotlib.colors, mpl_toolkits.basemap, os
+Required libraries: numpy, netCDF4, matplotlib.pyplot, matplotlib.colors, mpl_toolkits.basemap, os 
+
 Required files: TIP data with ISS location, GOLD Level 1C NI1 netCDF file (found here: https://gold.cs.ucf.edu/data/search/)
 
 File Description: 
